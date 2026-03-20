@@ -1,8 +1,10 @@
 # Chang Zeng | 曾畅
 
-Speech AI Researcher at [Shanda AI Research Tokyo](https://jp.shanda.com/).
+Senior Research Scientist at [Shanda AI Research Tokyo](https://shandaai.github.io/).
 
-I work on speech and audio foundation models, speaker verification and anti-spoofing, speech/singing voice generation, and multimodal generative AI.
+I work on generative audio, voice LLMs, and multimodal foundation models.
+
+With 7+ years of experience from research to production, I build product-ready speech and audio AI systems across expressive TTS, full-duplex speech systems, codec and tokenization design, large-scale multi-GPU training, and deployment.
 
 - Website: [zengchang233.github.io](https://zengchang233.github.io/)
 - Google Scholar: [Profile](https://scholar.google.com/citations?user=gfGyn49j-MkC&hl=en)
@@ -12,18 +14,21 @@ I work on speech and audio foundation models, speaker verification and anti-spoo
 
 ## Current Focus
 
-- Speech synthesis and understanding
-- Full-duplex spoken dialogue
-- Foundation model algorithms for text, speech, and audio
+- Generative audio and voice LLMs
+- Multimodal foundation models
+- Speech and singing voice generation
+- Speaker recognition and anti-spoofing
+- Audio separation and enhancement
 
 ## Experience
 
-- `2025.09 - Present`: Speech AI Researcher, Shanda AI Research Tokyo
+- `2025.09 - Present`: Senior Research Scientist, Shanda AI Research Tokyo
 - `2024.04 - 2025.08`: Multimodal Generative AI Researcher, Li Auto
 - `2023.09 - 2024.03`: Speech ML Researcher (Intern), RevComm Inc.
 
 ## Recent News
 
+- `2026.03`: Released [Speech Codec Probing from Semantic and Phonetic Perspectives](https://zengchang233.github.io/publication/arxiv2026_speech_codec_probing/) on arXiv.
 - `2026.01`: Released [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](https://zengchang233.github.io/publication/arxiv2026_semantically_consistent_dataset/) on arXiv.
 - `2026.01`: [DrivingScene](https://zengchang233.github.io/publication/arxiv2025_drivingscene/) and [PAGS](https://zengchang233.github.io/publication/arxiv2025_pags/) accepted by ICASSP 2026.
 - `2025.12`: Released [Towards Interactive Intelligence for Digital Humans](https://zengchang233.github.io/publication/arxiv2025_interactive_intelligence_digital_humans/) on arXiv.
@@ -33,6 +38,7 @@ I work on speech and audio foundation models, speaker verification and anti-spoo
 
 ## Selected Publications
 
+- [Speech Codec Probing from Semantic and Phonetic Perspectives](https://zengchang233.github.io/publication/arxiv2026_speech_codec_probing/) (arXiv, 2026)
 - [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](https://zengchang233.github.io/publication/arxiv2026_semantically_consistent_dataset/) (arXiv, 2026)
 - [PAGS: Priority-Adaptive Gaussian Splatting for Dynamic Driving Scenes](https://zengchang233.github.io/publication/arxiv2025_pags/) (ICASSP 2026)
 - [DrivingScene: A Multi-Task Online Feed-Forward 3D Gaussian Splatting Method for Dynamic Driving Scenes](https://zengchang233.github.io/publication/arxiv2025_drivingscene/) (ICASSP 2026)
