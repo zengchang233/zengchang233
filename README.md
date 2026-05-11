@@ -39,7 +39,7 @@ With 7+ years of experience from research to production, I build product-ready s
 ## Selected Publications
 
 - [Speech Codec Probing from Semantic and Phonetic Perspectives](https://zengchang233.github.io/publication/arxiv2026_speech_codec_probing/) (arXiv, 2026)
-- [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](https://zengchang233.github.io/publication/arxiv2026_semantically_consistent_dataset/) (arXiv, 2026)
+- [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](https://zengchang233.github.io/publication/arxiv2026_semantically_consistent_dataset/) (ICML 2026)
 - [PAGS: Priority-Adaptive Gaussian Splatting for Dynamic Driving Scenes](https://zengchang233.github.io/publication/arxiv2025_pags/) (ICASSP 2026)
 - [DrivingScene: A Multi-Task Online Feed-Forward 3D Gaussian Splatting Method for Dynamic Driving Scenes](https://zengchang233.github.io/publication/arxiv2025_drivingscene/) (ICASSP 2026)
 - [Critical Information Only: A Content Privacy-Preserving Framework for Detecting Audio Deepfakes](https://zengchang233.github.io/publication/tdsc2025_critical_information_only/) (IEEE TDSC, 2025)
