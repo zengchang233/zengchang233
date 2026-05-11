@@ -28,8 +28,8 @@ With 7+ years of experience from research to production, I build product-ready s
 
 ## Recent News
 
+- `2026.05`: [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](https://zengchang233.github.io/publication/arxiv2026_semantically_consistent_dataset/) accepted by ICML 2026.
 - `2026.03`: Released [Speech Codec Probing from Semantic and Phonetic Perspectives](https://zengchang233.github.io/publication/arxiv2026_speech_codec_probing/) on arXiv.
-- `2026.01`: Released [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](https://zengchang233.github.io/publication/arxiv2026_semantically_consistent_dataset/) on arXiv.
 - `2026.01`: [DrivingScene](https://zengchang233.github.io/publication/arxiv2025_drivingscene/) and [PAGS](https://zengchang233.github.io/publication/arxiv2025_pags/) accepted by ICASSP 2026.
 - `2025.12`: Released [Towards Interactive Intelligence for Digital Humans](https://zengchang233.github.io/publication/arxiv2025_interactive_intelligence_digital_humans/) on arXiv.
 - `2025.10`: [Critical Information Only](https://zengchang233.github.io/publication/tdsc2025_critical_information_only/) accepted by IEEE TDSC.
