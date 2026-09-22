@@ -1,6 +1,6 @@
 # Chang Zeng | 曾畅
 
-Senior Research Scientist at [Shanda AI Research Tokyo](https://shandaai.github.io/).
+Senior Research Scientist at [FishAudio](https://fish.audio/).
 
 I work on generative audio, voice LLMs, and multimodal foundation models.
 
@@ -22,7 +22,9 @@ With 7+ years of experience from research to production, I build product-ready s
 
 ## Experience
 
-- `2025.09 - Present`: Senior Research Scientist, Shanda AI Research Tokyo
+- `2026.08 - present`: Seniro Research Scientist, Fish Audio
+- `2026.04 - 2026.08`: Senior Research Scientist, StepFun
+- `2025.09 - 2026.03`: Senior Research Scientist, Shanda AI Research Tokyo
 - `2024.04 - 2025.08`: Multimodal Generative AI Researcher, Li Auto
 - `2023.09 - 2024.03`: Speech ML Researcher (Intern), RevComm Inc.
 
