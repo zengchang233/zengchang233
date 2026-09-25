@@ -30,6 +30,7 @@ With 7+ years of experience from research to production, I build product-ready s
 
 ## Recent News
 
+- `2026.09`: [UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation](https://arxiv.org/abs/2609.28206v2) on arXiv.
 - `2026.05`: [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](https://zengchang233.github.io/publication/arxiv2026_semantically_consistent_dataset/) accepted by ICML 2026.
 - `2026.03`: Released [Speech Codec Probing from Semantic and Phonetic Perspectives](https://zengchang233.github.io/publication/arxiv2026_speech_codec_probing/) on arXiv.
 - `2026.01`: [DrivingScene](https://zengchang233.github.io/publication/arxiv2025_drivingscene/) and [PAGS](https://zengchang233.github.io/publication/arxiv2025_pags/) accepted by ICASSP 2026.
@@ -40,6 +41,7 @@ With 7+ years of experience from research to production, I build product-ready s
 
 ## Selected Publications
 
+- [UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation](https://arxiv.org/abs/2609.28206v2) (arXiv, 2026)
 - [Speech Codec Probing from Semantic and Phonetic Perspectives](https://zengchang233.github.io/publication/arxiv2026_speech_codec_probing/) (arXiv, 2026)
 - [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](https://zengchang233.github.io/publication/arxiv2026_semantically_consistent_dataset/) (ICML 2026)
 - [PAGS: Priority-Adaptive Gaussian Splatting for Dynamic Driving Scenes](https://zengchang233.github.io/publication/arxiv2025_pags/) (ICASSP 2026)
