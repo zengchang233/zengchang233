@@ -42,6 +42,7 @@ With 7+ years of experience from research to production, I build product-ready s
 
 ## Selected Publications
 
+- [Fish Audio Drama 3 Technical Report](https://arxiv.org/abs/2610.18010) (arXiv, 2026)
 - [UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation](https://arxiv.org/abs/2609.28206v2) (arXiv, 2026)
 - [Speech Codec Probing from Semantic and Phonetic Perspectives](https://zengchang233.github.io/publication/arxiv2026_speech_codec_probing/) (arXiv, 2026)
 - [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](https://zengchang233.github.io/publication/arxiv2026_semantically_consistent_dataset/) (ICML 2026)
