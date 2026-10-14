@@ -31,6 +31,7 @@ With 7+ years of experience from research to production, I build product-ready s
 ## Recent News
 
 - `2026.10`: [Fish Audio Drama 3 Technical Report](https://arxiv.org/abs/2610.18010) on arXiv.
+- `2026.10`: [Can LLM Agents Automate Reinforcement Learning for Text-to-Speech?](https://arxiv.org/abs/2610.04488) on arXiv.
 - `2026.09`: [UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation](https://arxiv.org/abs/2609.28206v2) on arXiv.
 - `2026.05`: [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](https://zengchang233.github.io/publication/arxiv2026_semantically_consistent_dataset/) accepted by ICML 2026.
 - `2026.03`: Released [Speech Codec Probing from Semantic and Phonetic Perspectives](https://zengchang233.github.io/publication/arxiv2026_speech_codec_probing/) on arXiv.
@@ -43,6 +44,7 @@ With 7+ years of experience from research to production, I build product-ready s
 ## Selected Publications
 
 - [Fish Audio Drama 3 Technical Report](https://arxiv.org/abs/2610.18010) (arXiv, 2026)
+- [Can LLM Agents Automate Reinforcement Learning for Text-to-Speech?](https://arxiv.org/abs/2610.04488) (arXiv, 2026)
 - [UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation](https://arxiv.org/abs/2609.28206v2) (arXiv, 2026)
 - [Speech Codec Probing from Semantic and Phonetic Perspectives](https://zengchang233.github.io/publication/arxiv2026_speech_codec_probing/) (arXiv, 2026)
 - [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](https://zengchang233.github.io/publication/arxiv2026_semantically_consistent_dataset/) (ICML 2026)
