@@ -38,12 +38,6 @@ With 7+ years of experience from research to production, I build product-ready s
 - `2026.03`: Released [BEAVER](https://zengchang233.github.io/publication/arxiv2026_beaver/) on arXiv.
 - `2026.01`: [DrivingScene](https://zengchang233.github.io/publication/arxiv2025_drivingscene/), [PAGS](https://zengchang233.github.io/publication/arxiv2025_pags/), and [Automatic DER Estimation](https://zengchang233.github.io/publication/icassp2026_automatic_der_estimation/) accepted by ICASSP 2026.
 - `2025.12`: Released [Towards Interactive Intelligence for Digital Humans](https://zengchang233.github.io/publication/arxiv2025_interactive_intelligence_digital_humans/) on arXiv.
-- `2025.10`: [Critical Information Only](https://zengchang233.github.io/publication/tdsc2025_critical_information_only/) accepted by IEEE TDSC.
-- `2025.01`: [SonicSim](https://zengchang233.github.io/publication/arxiv2024_sonicsim/) accepted by ICLR 2025.
-- `2025.01`: [A Benchmark for Multi-Speaker Anonymization](https://zengchang233.github.io/publication/tifs2025_multispeaker_anonymization/) accepted by IEEE TIFS.
-- `2024.12`: [InstructSing](https://zengchang233.github.io/publication/slt2024_instructsing/) accepted by SLT 2024.
-- `2024.12`: [Spoofing-Aware Speaker Verification Robust Against Domain and Channel Mismatches](https://zengchang233.github.io/publication/slt2024_spoofing_aware_speaker_verification/) accepted by SLT 2024.
-- `2024.03`: Released [HAM-TTS](https://zengchang233.github.io/publication/acl2024_hamtts/) on arXiv.
 
 ## Selected Publications
 
