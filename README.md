@@ -29,6 +29,7 @@ With 7+ years of experience from research to production, I build product-ready s
 
 ## Recent News
 
+- `2026.10`: Released [Uni-Stream](https://zengchang233.github.io/publication/arxiv2026_uni_stream/) on arXiv.
 - `2026.10`: Released [Fish Audio Drama 3 Technical Report](https://zengchang233.github.io/publication/arxiv2026_fish_audio_drama_3/) on arXiv.
 - `2026.10`: Released [Can LLM Agents Automate Reinforcement Learning for Text-to-Speech?](https://zengchang233.github.io/publication/arxiv2026_llm_agents_tts/) on arXiv.
 - `2026.09`: Released [UNITE-AUDIO](https://zengchang233.github.io/publication/arxiv2026_unite_audio/) on arXiv.
@@ -41,13 +42,13 @@ With 7+ years of experience from research to production, I build product-ready s
 
 ## Selected Publications
 
+- [Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition](https://zengchang233.github.io/publication/arxiv2026_uni_stream/) (arXiv, 2026)
 - [Fish Audio Drama 3 Technical Report](https://zengchang233.github.io/publication/arxiv2026_fish_audio_drama_3/) (arXiv, 2026)
 - [Can LLM Agents Automate Reinforcement Learning for Text-to-Speech?](https://zengchang233.github.io/publication/arxiv2026_llm_agents_tts/) (arXiv, 2026)
 - [UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation](https://zengchang233.github.io/publication/arxiv2026_unite_audio/) (arXiv, 2026)
 - [Speech Codec Probing from Semantic and Phonetic Perspectives](https://zengchang233.github.io/publication/arxiv2026_speech_codec_probing/) (Interspeech 2026)
 - [StepAudio 2.5 Technical Report](https://zengchang233.github.io/publication/arxiv2026_stepaudio_2_5/) (arXiv, 2026)
 - [Automatic Estimation of Speaker Diarization Error Rate Based on Features of Audio Quality and Speaker Discriminability](https://zengchang233.github.io/publication/icassp2026_automatic_der_estimation/) (ICASSP 2026)
-- [A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation](https://zengchang233.github.io/publication/arxiv2026_semantically_consistent_dataset/) (ICML 2026)
 - [Attention Back-end for Automatic Speaker Verification with Multiple Enrollment Utterances](https://zengchang233.github.io/publication/icassp2022/) (ICASSP 2022)
 - [Xiaoicesing 2: A High-Fidelity Singing Voice Synthesizer Based on Generative Adversarial Network](https://zengchang233.github.io/publication/interspeech2023_xiaoice2/) (Interspeech 2023)
 - [HiFi-WaveGAN: Generative Adversarial Network with Auxiliary Spectrogram-Phase Loss for High-Fidelity Singing Voice Generation](https://zengchang233.github.io/publication/asru2023_hifi_wavegan/) (ISNN 2024)
